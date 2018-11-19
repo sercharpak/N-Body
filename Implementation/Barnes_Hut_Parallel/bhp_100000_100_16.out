@@ -1,0 +1,243 @@
+Parsing file: input_options_100000_100_16.txt
+Finished parsing the file 
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+type_input: Plummer
+type_output: text
+outputFile: testing_100000_16
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 100000
+Initializing particles with: Plummer
+P1 has particles: 100000
+P1 has n_time_steps 100
+P1 time step 0
+P2 has particles: 100000
+P2 has n_time_steps 100
+P2 time step 0
+P3 has particles: 100000
+P3 has n_time_steps 100
+P3 time step 0
+P4 has particles: 100000
+P4 has n_time_steps 100
+P4 time step 0
+P5 has particles: 100000
+P5 has n_time_steps 100
+P5 time step 0
+P6 has particles: 100000
+P6 has n_time_steps 100
+P6 time step 0
+P7 has particles: 100000
+P7 has n_time_steps 100
+P7 time step 0
+P8 has particles: 100000
+P8 has n_time_steps 100
+P8 time step 0
+P9 has particles: 100000
+P9 has n_time_steps 100
+P9 time step 0
+P10 has particles: 100000
+P10 has n_time_steps 100
+P10 time step 0
+P11 has particles: 100000
+P11 has n_time_steps 100
+P11 time step 0
+P12 has particles: 100000
+P12 has n_time_steps 100
+P12 time step 0
+P13 has particles: 100000
+P13 has n_time_steps 100
+P13 time step 0
+P14 has particles: 100000
+P14 has n_time_steps 100
+P14 time step 0
+P0 has particles: 100000
+P0 has n_time_steps 100
+P0 time step 0
+P15 has particles: 100000
+P15 has n_time_steps 100
+P15 time step 0
+P0 time step 1
+P1 time step 1
+P2 time step 1
+P14 time step 1
+P4 time step 1
+P6 time step 1
+P8 time step 1
+P10 time step 1
+P12 time step 1
+P9 time step 1
+P11 time step 1
+P15 time step 1
+P3 time step 1
+P5 time step 1
+P7 time step 1
+P13 time step 1

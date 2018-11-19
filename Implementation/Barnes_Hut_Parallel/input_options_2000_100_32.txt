@@ -1,0 +1,35 @@
+#Text file with the options to execute the N-Body Simulation
+#Authors: Sergio Daniel Hernandez Charpak
+#===========================================
+#----------------Format---------------------
+#-To comment just start a line with the '#' character
+#The format goes by: key=value with no spaces.
+#For keys with several values these are separated with the ',' character
+#Keys are unique
+#===========================================
+#----------------Initial-Conditions-------------
+#-Be careful to write the path with no quotes
+#-Can be:
+#-a Plummer Sphere:'Plummer'
+#-a two body Kepler problem:'2Kepler'
+#-a four body Kepler problem:'4Kepler'
+type_input=Plummer
+#----------------General-Physics----------------
+newton_g=0.0044995611
+timestep=0.1
+box_size=50.0
+softening=10.0
+tree_thres=1.5
+display_f=10
+n_particles=2000
+scale_radius=10.0
+n_time_steps=100
+#----------------Output-Files----------------
+#-Be careful to write the path with no quotes
+#-Can be:
+#-a text File:'text'
+#-a binary file:'bin'
+type_output=text
+outputFile=testing_2000_32
+number_outputs=1
+#----------------End----------------

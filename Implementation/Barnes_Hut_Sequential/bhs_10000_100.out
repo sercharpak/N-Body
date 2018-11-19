@@ -1,0 +1,14 @@
+Parsing file: input_options_10000_100.txt
+Finished parsing the file 
+type_input: Plummer
+type_output: text
+outputFile: testing_10000
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 10000
+Initializing particles with: Plummer

@@ -1,0 +1,401 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  us/call  us/call  name    
+ 57.83      0.85     0.85                             OctoTree_Serial::evolve()
+ 25.85      1.23     0.38 10528266     0.04     0.04  Cell::Cell(Cell const&)
+ 10.20      1.38     0.15   443838     0.34     0.59  void std::vector<Cell, std::allocator<Cell> >::_M_range_insert<__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > > >(__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, std::forward_iterator_tag)
+  2.04      1.41     0.03  4059606     0.01     0.01  Cell::~Cell()
+  1.36      1.43     0.02     9900     2.02     4.33  void std::vector<Cell, std::allocator<Cell> >::_M_emplace_back_aux<Cell const&>(Cell const&)
+  0.68      1.44     0.01  5603514     0.00     0.00  Cell::getN() const
+  0.68      1.45     0.01     9901     1.01     1.12  Cell::add(Particle)
+  0.34      1.46     0.01  3499452     0.00     0.00  Cell::meetsCriterion(Particle, double, double)
+  0.34      1.46     0.01   849300     0.01     0.01  Cell::getXcen() const
+  0.34      1.47     0.01                             Cell::setName(std::string const&)
+  0.34      1.47     0.01                             Cell::isInCell(double, double, double)
+  0.00      1.47     0.00  2963070     0.00     0.00  Particle::operator!=(Particle const&) const
+  0.00      1.47     0.00   936650     0.00     0.00  Particle::getX() const
+  0.00      1.47     0.00   936650     0.00     0.00  Particle::getY() const
+  0.00      1.47     0.00   936650     0.00     0.00  Particle::getZ() const
+  0.00      1.47     0.00   849300     0.00     0.01  Particle::kick(Cell, double, double, double)
+  0.00      1.47     0.00   849300     0.00     0.00  Cell::getYcen() const
+  0.00      1.47     0.00   849300     0.00     0.00  Cell::getZcen() const
+  0.00      1.47     0.00   443838     0.00     0.00  Cell::getDaughters() const
+  0.00      1.47     0.00    95166     0.00     0.00  Particle::Particle(double, double, double, double, double, double)
+  0.00      1.47     0.00    44790     0.00     0.00  Cell::Cell(double, double, double, double, double, double, std::string)
+  0.00      1.47     0.00    44688     0.00     0.00  void std::vector<Particle, std::allocator<Particle> >::_M_range_insert<__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > > >(__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, std::forward_iterator_tag)
+  0.00      1.47     0.00     9900     0.00     0.00  Particle::drift(double)
+  0.00      1.47     0.00     5586     0.00     0.20  Cell::createDaughters()
+  0.00      1.47     0.00     5586     0.00     0.00  void std::vector<Cell, std::allocator<Cell> >::_M_assign_aux<Cell const*>(Cell const*, Cell const*, std::forward_iterator_tag)
+  0.00      1.47     0.00      600     0.00     0.00  void std::vector<double, std::allocator<double> >::emplace_back<double>(double&&)
+  0.00      1.47     0.00      100     0.00     0.00  Cell::particles()
+  0.00      1.47     0.00      100     0.00     0.00  Particle::Particle(double, double, double, double, double, double, std::string)
+  0.00      1.47     0.00      100     0.00     0.00  std::string __gnu_cxx::__to_xstring<std::string, char>(int (*)(char*, unsigned long, char const*, __va_list_tag*), unsigned long, char const*, ...)
+  0.00      1.47     0.00       50     0.00     0.00  void std::vector<double, std::allocator<double> >::_M_emplace_back_aux<double>(double&&)
+  0.00      1.47     0.00       13     0.00     0.00  ConfigFileParser::valueExistsForKey(std::string)
+  0.00      1.47     0.00       13     0.00     0.00  void std::vector<std::string, std::allocator<std::string> >::emplace_back<std::string>(std::string&&)
+  0.00      1.47     0.00       13     0.00     0.00  std::_Rb_tree_iterator<std::pair<std::string const, std::string> > std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_emplace_hint_unique<std::piecewise_construct_t const&, std::tuple<std::string const&>, std::tuple<> >(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::piecewise_construct_t const&, std::tuple<std::string const&>&&, std::tuple<>&&)
+  0.00      1.47     0.00       13     0.00     0.00  std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_hint_unique_pos(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::string const&)
+  0.00      1.47     0.00        8     0.00     0.00  void std::vector<Particle, std::allocator<Particle> >::_M_emplace_back_aux<Particle const&>(Particle const&)
+  0.00      1.47     0.00        5     0.00     0.00  void std::vector<std::string, std::allocator<std::string> >::_M_emplace_back_aux<std::string>(std::string&&)
+  0.00      1.47     0.00        1     0.00     0.00  _GLOBAL__sub_I__ZN15OctoTree_SerialC2ESt6vectorI8ParticleSaIS1_EEddddd
+  0.00      1.47     0.00        1     0.00     0.00  _GLOBAL__sub_I__ZN16ConfigFileParserC2Ev
+  0.00      1.47     0.00        1     0.00     0.00  _GLOBAL__sub_I__ZN17InitialConditionsC2Ev
+  0.00      1.47     0.00        1     0.00     0.00  _GLOBAL__sub_I__ZNK4Cell7getXminEv
+  0.00      1.47     0.00        1     0.00     0.00  _GLOBAL__sub_I_main
+  0.00      1.47     0.00        1     0.00     0.00  std::vector<Particle, std::allocator<Particle> >::operator=(std::vector<Particle, std::allocator<Particle> > const&)
+  0.00      1.47     0.00        1     0.00     0.00  std::vector<double, std::allocator<double> >::operator=(std::vector<double, std::allocator<double> > const&)
+  0.00      1.47     0.00        1     0.00     0.00  std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_unique_pos(std::string const&)
+  0.00      1.47     0.00        1     0.00     0.00  std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_copy(std::_Rb_tree_node<std::pair<std::string const, std::string> > const*, std::_Rb_tree_node<std::pair<std::string const, std::string> >*)
+  0.00      1.47     0.00        1     0.00     0.00  std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, std::string> >*)
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+ 
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this 
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2014 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 2 byte(s) for 0.68% of 1.47 seconds
+
+index % time    self  children    called     name
+                                                 <spontaneous>
+[1]     99.3    0.85    0.61                 OctoTree_Serial::evolve() [1]
+                0.15    0.11  443838/443838      void std::vector<Cell, std::allocator<Cell> >::_M_range_insert<__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > > >(__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, std::forward_iterator_tag) [3]
+                0.25    0.00 6789024/10528266     Cell::Cell(Cell const&) [2]
+                0.02    0.02    9900/9900        void std::vector<Cell, std::allocator<Cell> >::_M_emplace_back_aux<Cell const&>(Cell const&) [4]
+                0.03    0.00 4042728/4059606     Cell::~Cell() [5]
+                0.01    0.00    9901/9901        Cell::add(Particle) [6]
+                0.00    0.01  849300/849300      Particle::kick(Cell, double, double, double) [8]
+                0.01    0.00 3055614/5603514     Cell::getN() const [7]
+                0.01    0.00 3499452/3499452     Cell::meetsCriterion(Particle, double, double) [9]
+                0.00    0.00 2963070/2963070     Particle::operator!=(Particle const&) const [22]
+                0.00    0.00  443838/443838      Cell::getDaughters() const [28]
+                0.00    0.00    9900/9900        Particle::drift(double) [32]
+                0.00    0.00     100/44790       Cell::Cell(double, double, double, double, double, double, std::string) [30]
+                0.00    0.00     100/100         Cell::particles() [35]
+-----------------------------------------------
+                             1214136             Cell::Cell(Cell const&) [2]
+                0.00    0.00   27930/10528266     Cell::createDaughters() [13]
+                0.02    0.00  633600/10528266     void std::vector<Cell, std::allocator<Cell> >::_M_emplace_back_aux<Cell const&>(Cell const&) [4]
+                0.11    0.00 3077712/10528266     void std::vector<Cell, std::allocator<Cell> >::_M_range_insert<__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > > >(__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, std::forward_iterator_tag) [3]
+                0.25    0.00 6789024/10528266     OctoTree_Serial::evolve() [1]
+[2]     25.9    0.38    0.00 10528266+1214136 Cell::Cell(Cell const&) [2]
+                             1214136             Cell::Cell(Cell const&) [2]
+-----------------------------------------------
+                0.15    0.11  443838/443838      OctoTree_Serial::evolve() [1]
+[3]     17.8    0.15    0.11  443838         void std::vector<Cell, std::allocator<Cell> >::_M_range_insert<__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > > >(__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, std::forward_iterator_tag) [3]
+                0.11    0.00 3077712/10528266     Cell::Cell(Cell const&) [2]
+-----------------------------------------------
+                0.02    0.02    9900/9900        OctoTree_Serial::evolve() [1]
+[4]      2.9    0.02    0.02    9900         void std::vector<Cell, std::allocator<Cell> >::_M_emplace_back_aux<Cell const&>(Cell const&) [4]
+                0.02    0.00  633600/10528266     Cell::Cell(Cell const&) [2]
+-----------------------------------------------
+                0.00    0.00     120/4059606     OctoTree_Serial::~OctoTree_Serial() [14]
+                0.00    0.00   16758/4059606     Cell::createDaughters() [13]
+                0.03    0.00 4042728/4059606     OctoTree_Serial::evolve() [1]
+[5]      2.0    0.03    0.00 4059606         Cell::~Cell() [5]
+-----------------------------------------------
+                              338016             Cell::add(Particle) [6]
+                0.01    0.00    9901/9901        OctoTree_Serial::evolve() [1]
+[6]      0.8    0.01    0.00    9901+338016  Cell::add(Particle) [6]
+                0.00    0.00    5586/5586        Cell::createDaughters() [13]
+                0.00    0.00  400069/936650      Particle::getZ() const [25]
+                0.00    0.00  400069/936650      Particle::getY() const [24]
+                0.00    0.00  400069/936650      Particle::getX() const [23]
+                0.00    0.00    5586/95166       Particle::Particle(double, double, double, double, double, double) [29]
+                              338016             Cell::add(Particle) [6]
+-----------------------------------------------
+                0.00    0.00 2547900/5603514     Particle::kick(Cell, double, double, double) [8]
+                0.01    0.00 3055614/5603514     OctoTree_Serial::evolve() [1]
+[7]      0.7    0.01    0.00 5603514         Cell::getN() const [7]
+-----------------------------------------------
+                0.00    0.01  849300/849300      OctoTree_Serial::evolve() [1]
+[8]      0.6    0.00    0.01  849300         Particle::kick(Cell, double, double, double) [8]
+                0.01    0.00  849300/849300      Cell::getXcen() const [10]
+                0.00    0.00 2547900/5603514     Cell::getN() const [7]
+                0.00    0.00  849300/849300      Cell::getYcen() const [26]
+                0.00    0.00  849300/849300      Cell::getZcen() const [27]
+-----------------------------------------------
+                0.01    0.00 3499452/3499452     OctoTree_Serial::evolve() [1]
+[9]      0.3    0.01    0.00 3499452         Cell::meetsCriterion(Particle, double, double) [9]
+                0.00    0.00  536382/936650      Particle::getX() const [23]
+                0.00    0.00  536382/936650      Particle::getY() const [24]
+                0.00    0.00  536382/936650      Particle::getZ() const [25]
+-----------------------------------------------
+                0.01    0.00  849300/849300      Particle::kick(Cell, double, double, double) [8]
+[10]     0.3    0.01    0.00  849300         Cell::getXcen() const [10]
+-----------------------------------------------
+                                                 <spontaneous>
+[11]     0.3    0.01    0.00                 Cell::setName(std::string const&) [11]
+-----------------------------------------------
+                                                 <spontaneous>
+[12]     0.3    0.01    0.00                 Cell::isInCell(double, double, double) [12]
+-----------------------------------------------
+                0.00    0.00    5586/5586        Cell::add(Particle) [6]
+[13]     0.1    0.00    0.00    5586         Cell::createDaughters() [13]
+                0.00    0.00   27930/10528266     Cell::Cell(Cell const&) [2]
+                0.00    0.00   16758/4059606     Cell::~Cell() [5]
+                0.00    0.00   44688/44790       Cell::Cell(double, double, double, double, double, double, std::string) [30]
+                0.00    0.00    5586/5586        void std::vector<Cell, std::allocator<Cell> >::_M_assign_aux<Cell const*>(Cell const*, Cell const*, std::forward_iterator_tag) [33]
+-----------------------------------------------
+                                                 <spontaneous>
+[14]     0.0    0.00    0.00                 OctoTree_Serial::~OctoTree_Serial() [14]
+                0.00    0.00     120/4059606     Cell::~Cell() [5]
+-----------------------------------------------
+                0.00    0.00 2963070/2963070     OctoTree_Serial::evolve() [1]
+[22]     0.0    0.00    0.00 2963070         Particle::operator!=(Particle const&) const [22]
+-----------------------------------------------
+                0.00    0.00     199/936650      Writter::writePositionsText(std::string, int, std::vector<Particle, std::allocator<Particle> >) [94]
+                0.00    0.00  400069/936650      Cell::add(Particle) [6]
+                0.00    0.00  536382/936650      Cell::meetsCriterion(Particle, double, double) [9]
+[23]     0.0    0.00    0.00  936650         Particle::getX() const [23]
+-----------------------------------------------
+                0.00    0.00     199/936650      Writter::writePositionsText(std::string, int, std::vector<Particle, std::allocator<Particle> >) [94]
+                0.00    0.00  400069/936650      Cell::add(Particle) [6]
+                0.00    0.00  536382/936650      Cell::meetsCriterion(Particle, double, double) [9]
+[24]     0.0    0.00    0.00  936650         Particle::getY() const [24]
+-----------------------------------------------
+                0.00    0.00     199/936650      Writter::writePositionsText(std::string, int, std::vector<Particle, std::allocator<Particle> >) [94]
+                0.00    0.00  400069/936650      Cell::add(Particle) [6]
+                0.00    0.00  536382/936650      Cell::meetsCriterion(Particle, double, double) [9]
+[25]     0.0    0.00    0.00  936650         Particle::getZ() const [25]
+-----------------------------------------------
+                0.00    0.00  849300/849300      Particle::kick(Cell, double, double, double) [8]
+[26]     0.0    0.00    0.00  849300         Cell::getYcen() const [26]
+-----------------------------------------------
+                0.00    0.00  849300/849300      Particle::kick(Cell, double, double, double) [8]
+[27]     0.0    0.00    0.00  849300         Cell::getZcen() const [27]
+-----------------------------------------------
+                0.00    0.00  443838/443838      OctoTree_Serial::evolve() [1]
+[28]     0.0    0.00    0.00  443838         Cell::getDaughters() const [28]
+-----------------------------------------------
+                0.00    0.00    5586/95166       Cell::add(Particle) [6]
+                0.00    0.00   89580/95166       Cell::Cell(double, double, double, double, double, double, std::string) [30]
+[29]     0.0    0.00    0.00   95166         Particle::Particle(double, double, double, double, double, double) [29]
+-----------------------------------------------
+                0.00    0.00       2/44790       OctoTree_Serial::OctoTree_Serial(std::vector<Particle, std::allocator<Particle> >, double, double, double, double, double) [63]
+                0.00    0.00     100/44790       OctoTree_Serial::evolve() [1]
+                0.00    0.00   44688/44790       Cell::createDaughters() [13]
+[30]     0.0    0.00    0.00   44790         Cell::Cell(double, double, double, double, double, double, std::string) [30]
+                0.00    0.00   89580/95166       Particle::Particle(double, double, double, double, double, double) [29]
+-----------------------------------------------
+                0.00    0.00   44688/44688       Cell::particles() [35]
+[31]     0.0    0.00    0.00   44688         void std::vector<Particle, std::allocator<Particle> >::_M_range_insert<__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > > >(__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, std::forward_iterator_tag) [31]
+-----------------------------------------------
+                0.00    0.00    9900/9900        OctoTree_Serial::evolve() [1]
+[32]     0.0    0.00    0.00    9900         Particle::drift(double) [32]
+-----------------------------------------------
+                0.00    0.00    5586/5586        Cell::createDaughters() [13]
+[33]     0.0    0.00    0.00    5586         void std::vector<Cell, std::allocator<Cell> >::_M_assign_aux<Cell const*>(Cell const*, Cell const*, std::forward_iterator_tag) [33]
+-----------------------------------------------
+                0.00    0.00     600/600         InitialConditions::plummerSphere(int, double, double) [71]
+[34]     0.0    0.00    0.00     600         void std::vector<double, std::allocator<double> >::emplace_back<double>(double&&) [34]
+-----------------------------------------------
+                               44688             Cell::particles() [35]
+                0.00    0.00     100/100         OctoTree_Serial::evolve() [1]
+[35]     0.0    0.00    0.00     100+44688   Cell::particles() [35]
+                0.00    0.00   44688/44688       void std::vector<Particle, std::allocator<Particle> >::_M_range_insert<__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > > >(__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, std::forward_iterator_tag) [31]
+                               44688             Cell::particles() [35]
+-----------------------------------------------
+                0.00    0.00     100/100         InitialConditions::plummerSphere(int, double, double) [71]
+[36]     0.0    0.00    0.00     100         Particle::Particle(double, double, double, double, double, double, std::string) [36]
+-----------------------------------------------
+                0.00    0.00     100/100         InitialConditions::plummerSphere(int, double, double) [71]
+[37]     0.0    0.00    0.00     100         std::string __gnu_cxx::__to_xstring<std::string, char>(int (*)(char*, unsigned long, char const*, __va_list_tag*), unsigned long, char const*, ...) [37]
+-----------------------------------------------
+                0.00    0.00       2/50          OctoTree_Serial::OctoTree_Serial(std::vector<Particle, std::allocator<Particle> >, double, double, double, double, double) [63]
+                0.00    0.00      48/50          InitialConditions::plummerSphere(int, double, double) [71]
+[38]     0.0    0.00    0.00      50         void std::vector<double, std::allocator<double> >::_M_emplace_back_aux<double>(double&&) [38]
+-----------------------------------------------
+                0.00    0.00      13/13          ConfigFileParser::verify() [64]
+[39]     0.0    0.00    0.00      13         ConfigFileParser::valueExistsForKey(std::string) [39]
+-----------------------------------------------
+                0.00    0.00      13/13          ConfigFileParser::ConfigFileParser() [69]
+[40]     0.0    0.00    0.00      13         void std::vector<std::string, std::allocator<std::string> >::emplace_back<std::string>(std::string&&) [40]
+-----------------------------------------------
+                0.00    0.00      13/13          ConfigFileParser::parseFile(std::string) [68]
+[41]     0.0    0.00    0.00      13         std::_Rb_tree_iterator<std::pair<std::string const, std::string> > std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_emplace_hint_unique<std::piecewise_construct_t const&, std::tuple<std::string const&>, std::tuple<> >(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::piecewise_construct_t const&, std::tuple<std::string const&>&&, std::tuple<>&&) [41]
+                0.00    0.00      13/13          std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_hint_unique_pos(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::string const&) [42]
+-----------------------------------------------
+                0.00    0.00      13/13          std::_Rb_tree_iterator<std::pair<std::string const, std::string> > std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_emplace_hint_unique<std::piecewise_construct_t const&, std::tuple<std::string const&>, std::tuple<> >(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::piecewise_construct_t const&, std::tuple<std::string const&>&&, std::tuple<>&&) [41]
+[42]     0.0    0.00    0.00      13         std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_hint_unique_pos(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::string const&) [42]
+                0.00    0.00       1/1           std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_unique_pos(std::string const&) [52]
+-----------------------------------------------
+                0.00    0.00       8/8           InitialConditions::plummerSphere(int, double, double) [71]
+[43]     0.0    0.00    0.00       8         void std::vector<Particle, std::allocator<Particle> >::_M_emplace_back_aux<Particle const&>(Particle const&) [43]
+-----------------------------------------------
+                0.00    0.00       5/5           ConfigFileParser::ConfigFileParser() [69]
+[44]     0.0    0.00    0.00       5         void std::vector<std::string, std::allocator<std::string> >::_M_emplace_back_aux<std::string>(std::string&&) [44]
+-----------------------------------------------
+                0.00    0.00       1/1           __libc_csu_init [142]
+[45]     0.0    0.00    0.00       1         _GLOBAL__sub_I__ZN15OctoTree_SerialC2ESt6vectorI8ParticleSaIS1_EEddddd [45]
+-----------------------------------------------
+                0.00    0.00       1/1           __libc_csu_init [142]
+[46]     0.0    0.00    0.00       1         _GLOBAL__sub_I__ZN16ConfigFileParserC2Ev [46]
+-----------------------------------------------
+                0.00    0.00       1/1           __libc_csu_init [142]
+[47]     0.0    0.00    0.00       1         _GLOBAL__sub_I__ZN17InitialConditionsC2Ev [47]
+-----------------------------------------------
+                0.00    0.00       1/1           __libc_csu_init [142]
+[48]     0.0    0.00    0.00       1         _GLOBAL__sub_I__ZNK4Cell7getXminEv [48]
+-----------------------------------------------
+                0.00    0.00       1/1           __libc_csu_init [142]
+[49]     0.0    0.00    0.00       1         _GLOBAL__sub_I_main [49]
+-----------------------------------------------
+                0.00    0.00       1/1           OctoTree_Serial::OctoTree_Serial(std::vector<Particle, std::allocator<Particle> >, double, double, double, double, double) [63]
+[50]     0.0    0.00    0.00       1         std::vector<Particle, std::allocator<Particle> >::operator=(std::vector<Particle, std::allocator<Particle> > const&) [50]
+-----------------------------------------------
+                0.00    0.00       1/1           OctoTree_Serial::OctoTree_Serial(std::vector<Particle, std::allocator<Particle> >, double, double, double, double, double) [63]
+[51]     0.0    0.00    0.00       1         std::vector<double, std::allocator<double> >::operator=(std::vector<double, std::allocator<double> > const&) [51]
+-----------------------------------------------
+                0.00    0.00       1/1           std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_hint_unique_pos(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::string const&) [42]
+[52]     0.0    0.00    0.00       1         std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_unique_pos(std::string const&) [52]
+-----------------------------------------------
+                                   6             std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_copy(std::_Rb_tree_node<std::pair<std::string const, std::string> > const*, std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [53]
+                0.00    0.00       1/1           ConfigFileParser::getData() [65]
+[53]     0.0    0.00    0.00       1+6       std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_copy(std::_Rb_tree_node<std::pair<std::string const, std::string> > const*, std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [53]
+                                   6             std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_copy(std::_Rb_tree_node<std::pair<std::string const, std::string> > const*, std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [53]
+-----------------------------------------------
+                                  26             std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [54]
+                0.00    0.00       1/1           ConfigFileParser::~ConfigFileParser() [70]
+[54]     0.0    0.00    0.00       1+26      std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [54]
+                                  26             std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, std::string> >*) [54]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2014 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by function name
+
+  [45] _GLOBAL__sub_I__ZN15OctoTree_SerialC2ESt6vectorI8ParticleSaIS1_EEddddd [8] Particle::kick(Cell, double, double, double) [4] void std::vector<Cell, std::allocator<Cell> >::_M_emplace_back_aux<Cell const&>(Cell const&)
+  [46] _GLOBAL__sub_I__ZN16ConfigFileParserC2Ev [32] Particle::drift(double) [31] void std::vector<Particle, std::allocator<Particle> >::_M_range_insert<__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > > >(__gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, __gnu_cxx::__normal_iterator<Particle*, std::vector<Particle, std::allocator<Particle> > >, std::forward_iterator_tag)
+  [47] _GLOBAL__sub_I__ZN17InitialConditionsC2Ev [36] Particle::Particle(double, double, double, double, double, double, std::string) [43] void std::vector<Particle, std::allocator<Particle> >::_M_emplace_back_aux<Particle const&>(Particle const&)
+  [48] _GLOBAL__sub_I__ZNK4Cell7getXminEv [29] Particle::Particle(double, double, double, double, double, double) [50] std::vector<Particle, std::allocator<Particle> >::operator=(std::vector<Particle, std::allocator<Particle> > const&)
+  [49] _GLOBAL__sub_I_main    [37] std::string __gnu_cxx::__to_xstring<std::string, char>(int (*)(char*, unsigned long, char const*, __va_list_tag*), unsigned long, char const*, ...) [40] void std::vector<std::string, std::allocator<std::string> >::emplace_back<std::string>(std::string&&)
+   [1] OctoTree_Serial::evolve() [28] Cell::getDaughters() const [44] void std::vector<std::string, std::allocator<std::string> >::_M_emplace_back_aux<std::string>(std::string&&)
+  [39] ConfigFileParser::valueExistsForKey(std::string) [7] Cell::getN() const [34] void std::vector<double, std::allocator<double> >::emplace_back<double>(double&&)
+   [9] Cell::meetsCriterion(Particle, double, double) [10] Cell::getXcen() const [38] void std::vector<double, std::allocator<double> >::_M_emplace_back_aux<double>(double&&)
+  [13] Cell::createDaughters() [26] Cell::getYcen() const [51] std::vector<double, std::allocator<double> >::operator=(std::vector<double, std::allocator<double> > const&)
+   [6] Cell::add(Particle)    [27] Cell::getZcen() const  [41] std::_Rb_tree_iterator<std::pair<std::string const, std::string> > std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_emplace_hint_unique<std::piecewise_construct_t const&, std::tuple<std::string const&>, std::tuple<> >(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::piecewise_construct_t const&, std::tuple<std::string const&>&&, std::tuple<>&&)
+  [11] Cell::setName(std::string const&) [23] Particle::getX() const [52] std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_unique_pos(std::string const&)
+  [12] Cell::isInCell(double, double, double) [24] Particle::getY() const [42] std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_get_insert_hint_unique_pos(std::_Rb_tree_const_iterator<std::pair<std::string const, std::string> >, std::string const&)
+  [35] Cell::particles()      [25] Particle::getZ() const [53] std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_copy(std::_Rb_tree_node<std::pair<std::string const, std::string> > const*, std::_Rb_tree_node<std::pair<std::string const, std::string> >*)
+  [30] Cell::Cell(double, double, double, double, double, double, std::string) [22] Particle::operator!=(Particle const&) const [54] std::_Rb_tree<std::string, std::pair<std::string const, std::string>, std::_Select1st<std::pair<std::string const, std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::string> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, std::string> >*)
+   [2] Cell::Cell(Cell const&) [33] void std::vector<Cell, std::allocator<Cell> >::_M_assign_aux<Cell const*>(Cell const*, Cell const*, std::forward_iterator_tag)
+   [5] Cell::~Cell()           [3] void std::vector<Cell, std::allocator<Cell> >::_M_range_insert<__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > > >(__gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, __gnu_cxx::__normal_iterator<Cell*, std::vector<Cell, std::allocator<Cell> > >, std::forward_iterator_tag)

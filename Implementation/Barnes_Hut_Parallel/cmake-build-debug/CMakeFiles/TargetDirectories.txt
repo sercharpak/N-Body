@@ -1,0 +1,4 @@
+/home/shernand/Documents/EPFL/Semester-2/phpc_SDHC_nbody/N-Body_SDHC/Barnes_Hut_Parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shernand/Documents/EPFL/Semester-2/phpc_SDHC_nbody/N-Body_SDHC/Barnes_Hut_Parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shernand/Documents/EPFL/Semester-2/phpc_SDHC_nbody/N-Body_SDHC/Barnes_Hut_Parallel/cmake-build-debug/CMakeFiles/doc.dir
+/home/shernand/Documents/EPFL/Semester-2/phpc_SDHC_nbody/N-Body_SDHC/Barnes_Hut_Parallel/cmake-build-debug/CMakeFiles/Project.dir

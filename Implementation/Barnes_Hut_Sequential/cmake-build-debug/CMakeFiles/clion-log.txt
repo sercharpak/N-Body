@@ -1,0 +1,5 @@
+/opt/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shernand/Documents/EPFL/Semester-2/PHPC_SHDC/Project/N-Body_SDHC/Barnes_Hut
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shernand/Documents/EPFL/Semester-2/PHPC_SHDC/Project/N-Body_SDHC/Barnes_Hut/cmake-build-debug

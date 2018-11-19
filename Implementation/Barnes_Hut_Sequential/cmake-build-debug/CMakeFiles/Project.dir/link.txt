@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -pedantic -std=c++11 -O2 -g   CMakeFiles/Project.dir/main.cpp.o CMakeFiles/Project.dir/ConfigFileParser.cpp.o CMakeFiles/Project.dir/Particle.cpp.o CMakeFiles/Project.dir/Cell.cpp.o CMakeFiles/Project.dir/InitialConditions.cpp.o CMakeFiles/Project.dir/OctoTree_Serial.cpp.o CMakeFiles/Project.dir/Writter.cpp.o  -o Project 

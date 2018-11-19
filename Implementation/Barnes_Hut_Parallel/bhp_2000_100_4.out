@@ -1,0 +1,470 @@
+Parsing file: input_options_2000_100_4.txt
+Finished parsing the file 
+type_input: Plummer
+type_output: text
+outputFile: testing_2000_4
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 2000
+Initializing particles with: Plummer
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 2000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 2000
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 2000
+P0 has particles: 2000
+P0 has n_time_steps 100
+P0 time step 0
+P1 has particles: 2000
+P1 has n_time_steps 100
+P1 time step 0
+P2 has particles: 2000
+P2 has n_time_steps 100
+P2 time step 0
+P3 has particles: 2000
+P3 has n_time_steps 100
+P3 time step 0
+P2 time step 1
+P0 time step 1
+P1 time step 1
+P3 time step 1
+P1 time step 2
+P2 time step 2
+P0 time step 2
+P3 time step 2
+P0 time step 3
+P1 time step 3
+P2 time step 3
+P3 time step 3
+P0 time step 4
+P2 time step 4
+P3 time step 4
+P1 time step 4
+P0 time step 5
+P2 time step 5
+P3 time step 5
+P1 time step 5
+P3 time step 6
+P0 time step 6
+P2 time step 6
+P1 time step 6
+P0 time step 7
+P1 time step 7
+P2 time step 7
+P3 time step 7
+P1 time step 8
+P2 time step 8
+P0 time step 8
+P3 time step 8
+P0 time step 9
+P1 time step 9
+P2 time step 9
+P3 time step 9
+P2 time step 10
+P0 time step 10
+P1 time step 10
+P3 time step 10
+P1 time step 11
+P2 time step 11
+P0 time step 11
+P3 time step 11
+P0 time step 12
+P3 time step 12
+P1 time step 12
+P2 time step 12
+P0 time step 13
+P3 time step 13
+P1 time step 13
+P2 time step 13
+P1 time step 14
+P0 time step 14
+P3 time step 14
+P2 time step 14
+P3 time step 15
+P1 time step 15
+P0 time step 15
+P2 time step 15
+P0 time step 16
+P2 time step 16
+P3 time step 16
+P1 time step 16
+P0 time step 17
+P2 time step 17
+P3 time step 17
+P1 time step 17
+P3 time step 18
+P0 time step 18
+P2 time step 18
+P1 time step 18
+P0 time step 19
+P2 time step 19
+P3 time step 19
+P1 time step 19
+P0 time step 20
+P1 time step 20
+P2 time step 20
+P3 time step 20
+P0 time step 21
+P3 time step 21
+P1 time step 21
+P2 time step 21
+P0 time step 22
+P3 time step 22
+P1 time step 22
+P2 time step 22
+P0 time step 23
+P1 time step 23
+P2 time step 23
+P3 time step 23
+P0 time step 24
+P1 time step 24
+P2 time step 24
+P3 time step 24
+P2 time step 25
+P0 time step 25
+P1 time step 25
+P3 time step 25
+P0 time step 26
+P1 time step 26
+P2 time step 26
+P3 time step 26
+P0 time step 27
+P1 time step 27
+P2 time step 27
+P3 time step 27
+P2 time step 28
+P0 time step 28
+P1 time step 28
+P3 time step 28
+P0 time step 29
+P1 time step 29
+P2 time step 29
+P3 time step 29
+P0 time step 30
+P1 time step 30
+P2 time step 30
+P3 time step 30
+P2 time step 31
+P0 time step 31
+P1 time step 31
+P3 time step 31
+P1 time step 32
+P2 time step 32
+P0 time step 32
+P3 time step 32
+P0 time step 33
+P3 time step 33
+P1 time step 33
+P2 time step 33
+P0 time step 34
+P3 time step 34
+P1 time step 34
+P2 time step 34
+P1 time step 35
+P0 time step 35
+P3 time step 35
+P2 time step 35
+P3 time step 36
+P1 time step 36
+P0 time step 36
+P2 time step 36
+P0 time step 37
+P2 time step 37
+P3 time step 37
+P1 time step 37
+P0 time step 38
+P2 time step 38
+P3 time step 38
+P1 time step 38
+P3 time step 39
+P0 time step 39
+P2 time step 39
+P1 time step 39
+P2 time step 40
+P3 time step 40
+P0 time step 40
+P1 time step 40
+P0 time step 41
+P1 time step 41
+P2 time step 41
+P3 time step 41
+P0 time step 42
+P1 time step 42
+P2 time step 42
+P3 time step 42
+P2 time step 43
+P0 time step 43
+P1 time step 43
+P3 time step 43
+P0 time step 44
+P1 time step 44
+P2 time step 44
+P3 time step 44
+P0 time step 45
+P3 time step 45
+P1 time step 45
+P2 time step 45
+P0 time step 46
+P2 time step 46
+P3 time step 46
+P1 time step 46
+P0 time step 47
+P2 time step 47
+P3 time step 47
+P1 time step 47
+P0 time step 48
+P3 time step 48
+P1 time step 48
+P2 time step 48
+P0 time step 49
+P3 time step 49
+P1 time step 49
+P2 time step 49
+P0 time step 50
+P1 time step 50
+P2 time step 50
+P3 time step 50
+P0 time step 51
+P3 time step 51
+P1 time step 51
+P2 time step 51
+P0 time step 52
+P3 time step 52
+P1 time step 52
+P2 time step 52
+P1 time step 53
+P0 time step 53
+P3 time step 53
+P2 time step 53
+P3 time step 54
+P1 time step 54
+P0 time step 54
+P2 time step 54
+P0 time step 55
+P3 time step 55
+P1 time step 55
+P2 time step 55
+P0 time step 56
+P1 time step 56
+P2 time step 56
+P3 time step 56
+P0 time step 57
+P2 time step 57
+P3 time step 57
+P1 time step 57
+P2 time step 58
+P3 time step 58
+P0 time step 58
+P1 time step 58
+P0 time step 59
+P2 time step 59
+P3 time step 59
+P1 time step 59
+P3 time step 60
+P0 time step 60
+P2 time step 60
+P1 time step 60
+P0 time step 61
+P2 time step 61
+P3 time step 61
+P1 time step 61
+P0 time step 62
+P1 time step 62
+P2 time step 62
+P3 time step 62
+P0 time step 63
+P1 time step 63
+P2 time step 63
+P3 time step 63
+P0 time step 64
+P2 time step 64
+P3 time step 64
+P1 time step 64
+P0 time step 65
+P1 time step 65
+P2 time step 65
+P3 time step 65
+P0 time step 66
+P3 time step 66
+P1 time step 66
+P2 time step 66
+P0 time step 67
+P3 time step 67
+P1 time step 67
+P2 time step 67
+P0 time step 68
+P1 time step 68
+P2 time step 68
+P3 time step 68
+P0 time step 69
+P1 time step 69
+P2 time step 69
+P3 time step 69
+P0 time step 70
+P2 time step 70
+P3 time step 70
+P1 time step 70
+P0 time step 71
+P2 time step 71
+P3 time step 71
+P1 time step 71
+P3 time step 72
+P0 time step 72
+P2 time step 72
+P1 time step 72
+P0 time step 73
+P2 time step 73
+P3 time step 73
+P1 time step 73
+P0 time step 74
+P2 time step 74
+P3 time step 74
+P1 time step 74
+P3 time step 75
+P0 time step 75
+P2 time step 75
+P1 time step 75
+P2 time step 76
+P3 time step 76
+P0 time step 76
+P1 time step 76
+P0 time step 77
+P1 time step 77
+P2 time step 77
+P3 time step 77
+P0 time step 78
+P1 time step 78
+P2 time step 78
+P3 time step 78
+P2 time step 79
+P0 time step 79
+P1 time step 79
+P3 time step 79
+P0 time step 80
+P1 time step 80
+P2 time step 80
+P3 time step 80
+P0 time step 81
+P3 time step 81
+P1 time step 81
+P2 time step 81
+P0 time step 82
+P3 time step 82
+P1 time step 82
+P2 time step 82
+P0 time step 83
+P1 time step 83
+P2 time step 83
+P3 time step 83
+P0 time step 84
+P1 time step 84
+P2 time step 84
+P3 time step 84
+P2 time step 85
+P0 time step 85
+P1 time step 85
+P3 time step 85
+P1 time step 86
+P2 time step 86
+P0 time step 86
+P3 time step 86
+P0 time step 87
+P1 time step 87
+P2 time step 87
+P3 time step 87
+P2 time step 88
+P0 time step 88
+P1 time step 88
+P3 time step 88
+P1 time step 89
+P2 time step 89
+P0 time step 89
+P3 time step 89
+P0 time step 90
+P1 time step 90
+P2 time step 90
+P3 time step 90
+P2 time step 91
+P0 time step 91
+P1 time step 91
+P3 time step 91
+P0 time step 92
+P1 time step 92
+P2 time step 92
+P3 time step 92
+P0 time step 93
+P1 time step 93
+P2 time step 93
+P3 time step 93
+P2 time step 94
+P0 time step 94
+P1 time step 94
+P3 time step 94
+P1 time step 95
+P2 time step 95
+P0 time step 95
+P3 time step 95
+P0 time step 96
+P3 time step 96
+P1 time step 96
+P2 time step 96
+P0 time step 97
+P2 time step 97
+P3 time step 97
+P1 time step 97
+P0 time step 98
+P2 time step 98
+P3 time step 98
+P1 time step 98
+P3 time step 99
+P0 time step 99
+P2 time step 99
+P1 time step 99
+P0 Timing: 0 is 3.69791e-09
+P0 Timing: 1 is 0.000488886
+P0 Timing: 2 is 5.65109e-07
+P2 Timing: 0 is 3.70845e-09
+P2 Timing: 1 is 0.000486989
+P2 Timing: 2 is 2.50386e-06
+P3 Timing: 0 is 3.67235e-09
+P3 Timing: 1 is 0.000481336
+P3 Timing: 2 is 8.16051e-06
+P1 Timing: 0 is 3.6861e-09
+P1 Timing: 1 is 0.000482288
+P1 Timing: 2 is 7.20842e-06
+Gobal Times Timing: 0 is 1.47648e-08
+Gobal Times Timing: 1 is 0.0019395
+Gobal Times Timing: 2 is 1.84379e-05

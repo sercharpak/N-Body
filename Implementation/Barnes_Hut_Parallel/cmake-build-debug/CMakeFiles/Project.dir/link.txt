@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fopenmp -g   CMakeFiles/Project.dir/main.cpp.o CMakeFiles/Project.dir/ConfigFileParser.cpp.o CMakeFiles/Project.dir/Particle.cpp.o CMakeFiles/Project.dir/Cell.cpp.o CMakeFiles/Project.dir/InitialConditions.cpp.o CMakeFiles/Project.dir/OctoTree_Serial.cpp.o CMakeFiles/Project.dir/Writter.cpp.o CMakeFiles/Project.dir/OctoTree_Parallel.cpp.o  -o Project 

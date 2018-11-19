@@ -1,0 +1,18 @@
+==============N-Body-SDHC-Steps==============
+--------Design Choices and Baselines---------
+
+1. Choice of the Algorithm -> LeepFrog LEAP
+
+2. DirectSum (O(n^2)) Baseline
+
+3. Barnes Hut (O(NLogN)).
+Implementation heavily inspired from the Python http://portillo.ca/nbody/
+3. a. Construction of the Tree
+3. b. Calculation of the Force using the tree
+3. c. Tree update (reconstruction of the tree)
+
+4. Parallelization
+Implementation heavily inspired from the Python http://portillo.ca/nbody/
+4. a. Construction of the tree #Not done yet
+4. b. Force calcultation using the tree #Done with MPI.
+4. c. Tree update #Not done yet

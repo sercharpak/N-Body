@@ -1,0 +1,16 @@
+Parsing file: input_options_50_100.txt
+Finished parsing the file 
+type_input: Plummer
+type_output: text
+outputFile: testing_50
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 50
+Initializing particles with: Plummer
+Timing: 0 is 0
+Timing: 1 is 1.12

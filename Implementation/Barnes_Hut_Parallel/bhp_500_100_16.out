@@ -1,0 +1,1862 @@
+Parsing file: input_options_500_100_16.txt
+Finished parsing the file 
+type_input: Plummer
+type_output: text
+outputFile: testing_500_16
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+Initializing particles with: Plummer
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+type_input: 
+type_output: 
+outputFile: 
+box_size: 50
+timestep: 0.1
+newton_g: 0.00449956
+softening: 10
+tree_thres: 1.5
+scale_radius: 10
+n_time_steps: 100
+n_particles: 500
+P0 has particles: 500
+P0 has n_time_steps 100
+P0 time step 0
+P1 has particles: 500
+P1 has n_time_steps 100
+P1 time step 0
+P2 has particles: 500
+P2 has n_time_steps 100
+P2 time step 0
+P3 has particles: 500
+P3 has n_time_steps 100
+P3 time step 0
+P4 has particles: 500
+P4 has n_time_steps 100
+P4 time step 0
+P5 has particles: 500
+P5 has n_time_steps 100
+P5 time step 0
+P6 has particles: 500
+P6 has n_time_steps 100
+P6 time step 0
+P7 has particles: 500
+P7 has n_time_steps 100
+P7 time step 0
+P8 has particles: 500
+P8 has n_time_steps 100
+P8 time step 0
+P9 has particles: 500
+P9 has n_time_steps 100
+P9 time step 0
+P10 has particles: 500
+P10 has n_time_steps 100
+P10 time step 0
+P11 has particles: 500
+P11 has n_time_steps 100
+P11 time step 0
+P12 has particles: 500
+P12 has n_time_steps 100
+P12 time step 0
+P13 has particles: 500
+P13 has n_time_steps 100
+P13 time step 0
+P14 has particles: 500
+P14 has n_time_steps 100
+P14 time step 0
+P15 has particles: 500
+P15 has n_time_steps 100
+P15 time step 0
+P14 time step 1
+P0 time step 1
+P1 time step 1
+P2 time step 1
+P3 time step 1
+P4 time step 1
+P5 time step 1
+P6 time step 1
+P7 time step 1
+P8 time step 1
+P9 time step 1
+P10 time step 1
+P11 time step 1
+P12 time step 1
+P13 time step 1
+P15 time step 1
+P13 time step 2
+P14 time step 2
+P0 time step 2
+P1 time step 2
+P2 time step 2
+P3 time step 2
+P4 time step 2
+P5 time step 2
+P6 time step 2
+P7 time step 2
+P8 time step 2
+P9 time step 2
+P10 time step 2
+P11 time step 2
+P12 time step 2
+P15 time step 2
+P12 time step 3
+P13 time step 3
+P14 time step 3
+P0 time step 3
+P1 time step 3
+P2 time step 3
+P3 time step 3
+P4 time step 3
+P5 time step 3
+P6 time step 3
+P7 time step 3
+P8 time step 3
+P9 time step 3
+P10 time step 3
+P11 time step 3
+P15 time step 3
+P11 time step 4
+P12 time step 4
+P13 time step 4
+P14 time step 4
+P0 time step 4
+P1 time step 4
+P2 time step 4
+P3 time step 4
+P4 time step 4
+P5 time step 4
+P6 time step 4
+P7 time step 4
+P8 time step 4
+P9 time step 4
+P10 time step 4
+P15 time step 4
+P0 time step 5
+P15 time step 5
+P10 time step 5
+P11 time step 5
+P12 time step 5
+P13 time step 5
+P14 time step 5
+P1 time step 5
+P2 time step 5
+P3 time step 5
+P4 time step 5
+P5 time step 5
+P6 time step 5
+P7 time step 5
+P8 time step 5
+P9 time step 5
+P0 time step 6
+P15 time step 6
+P10 time step 6
+P11 time step 6
+P12 time step 6
+P13 time step 6
+P9 time step 6
+P14 time step 6
+P1 time step 6
+P2 time step 6
+P3 time step 6
+P4 time step 6
+P5 time step 6
+P6 time step 6
+P7 time step 6
+P8 time step 6
+P0 time step 7
+P15 time step 7
+P10 time step 7
+P11 time step 7
+P12 time step 7
+P13 time step 7
+P9 time step 7
+P14 time step 7
+P1 time step 7
+P2 time step 7
+P3 time step 7
+P4 time step 7
+P5 time step 7
+P6 time step 7
+P7 time step 7
+P8 time step 7
+P0 time step 8
+P15 time step 8
+P10 time step 8
+P11 time step 8
+P12 time step 8
+P13 time step 8
+P9 time step 8
+P14 time step 8
+P1 time step 8
+P2 time step 8
+P3 time step 8
+P4 time step 8
+P5 time step 8
+P6 time step 8
+P8 time step 8
+P7 time step 8
+P8 time step 9
+P6 time step 9
+P0 time step 9
+P15 time step 9
+P10 time step 9
+P11 time step 9
+P12 time step 9
+P13 time step 9
+P9 time step 9
+P14 time step 9
+P1 time step 9
+P2 time step 9
+P3 time step 9
+P4 time step 9
+P5 time step 9
+P7 time step 9
+P5 time step 10
+P8 time step 10
+P6 time step 10
+P0 time step 10
+P15 time step 10
+P10 time step 10
+P11 time step 10
+P12 time step 10
+P13 time step 10
+P9 time step 10
+P14 time step 10
+P1 time step 10
+P2 time step 10
+P3 time step 10
+P4 time step 10
+P7 time step 10
+P4 time step 11
+P5 time step 11
+P8 time step 11
+P6 time step 11
+P0 time step 11
+P15 time step 11
+P10 time step 11
+P11 time step 11
+P12 time step 11
+P13 time step 11
+P9 time step 11
+P14 time step 11
+P1 time step 11
+P2 time step 11
+P3 time step 11
+P7 time step 11
+P0 time step 12
+P15 time step 12
+P10 time step 12
+P11 time step 12
+P12 time step 12
+P13 time step 12
+P9 time step 12
+P14 time step 12
+P1 time step 12
+P2 time step 12
+P7 time step 12
+P3 time step 12
+P4 time step 12
+P5 time step 12
+P8 time step 12
+P6 time step 12
+P7 time step 13
+P3 time step 13
+P4 time step 13
+P5 time step 13
+P8 time step 13
+P2 time step 13
+P0 time step 13
+P15 time step 13
+P10 time step 13
+P11 time step 13
+P12 time step 13
+P13 time step 13
+P9 time step 13
+P14 time step 13
+P1 time step 13
+P6 time step 13
+P0 time step 14
+P1 time step 14
+P7 time step 14
+P3 time step 14
+P4 time step 14
+P5 time step 14
+P8 time step 14
+P2 time step 14
+P6 time step 14
+P15 time step 14
+P10 time step 14
+P11 time step 14
+P12 time step 14
+P13 time step 14
+P9 time step 14
+P14 time step 14
+P0 time step 15
+P1 time step 15
+P7 time step 15
+P3 time step 15
+P4 time step 15
+P5 time step 15
+P8 time step 15
+P2 time step 15
+P6 time step 15
+P15 time step 15
+P10 time step 15
+P11 time step 15
+P12 time step 15
+P13 time step 15
+P9 time step 15
+P14 time step 15
+P9 time step 16
+P0 time step 16
+P1 time step 16
+P7 time step 16
+P3 time step 16
+P4 time step 16
+P5 time step 16
+P8 time step 16
+P2 time step 16
+P6 time step 16
+P15 time step 16
+P10 time step 16
+P11 time step 16
+P12 time step 16
+P13 time step 16
+P14 time step 16
+P13 time step 17
+P9 time step 17
+P0 time step 17
+P1 time step 17
+P7 time step 17
+P3 time step 17
+P4 time step 17
+P5 time step 17
+P8 time step 17
+P2 time step 17
+P6 time step 17
+P15 time step 17
+P10 time step 17
+P11 time step 17
+P12 time step 17
+P14 time step 17
+P12 time step 18
+P13 time step 18
+P9 time step 18
+P0 time step 18
+P1 time step 18
+P7 time step 18
+P3 time step 18
+P4 time step 18
+P5 time step 18
+P8 time step 18
+P2 time step 18
+P6 time step 18
+P15 time step 18
+P10 time step 18
+P11 time step 18
+P14 time step 18
+P11 time step 19
+P12 time step 19
+P13 time step 19
+P9 time step 19
+P0 time step 19
+P1 time step 19
+P7 time step 19
+P3 time step 19
+P4 time step 19
+P5 time step 19
+P8 time step 19
+P2 time step 19
+P6 time step 19
+P15 time step 19
+P10 time step 19
+P14 time step 19
+P10 time step 20
+P11 time step 20
+P12 time step 20
+P13 time step 20
+P9 time step 20
+P0 time step 20
+P1 time step 20
+P7 time step 20
+P3 time step 20
+P4 time step 20
+P5 time step 20
+P8 time step 20
+P2 time step 20
+P6 time step 20
+P15 time step 20
+P14 time step 20
+P15 time step 21
+P10 time step 21
+P11 time step 21
+P12 time step 21
+P13 time step 21
+P9 time step 21
+P0 time step 21
+P1 time step 21
+P7 time step 21
+P3 time step 21
+P4 time step 21
+P5 time step 21
+P8 time step 21
+P2 time step 21
+P6 time step 21
+P14 time step 21
+P6 time step 22
+P15 time step 22
+P10 time step 22
+P11 time step 22
+P12 time step 22
+P13 time step 22
+P9 time step 22
+P0 time step 22
+P1 time step 22
+P7 time step 22
+P3 time step 22
+P4 time step 22
+P5 time step 22
+P8 time step 22
+P2 time step 22
+P14 time step 22
+P2 time step 23
+P6 time step 23
+P15 time step 23
+P10 time step 23
+P11 time step 23
+P12 time step 23
+P13 time step 23
+P9 time step 23
+P0 time step 23
+P1 time step 23
+P7 time step 23
+P3 time step 23
+P4 time step 23
+P5 time step 23
+P8 time step 23
+P14 time step 23
+P8 time step 24
+P2 time step 24
+P6 time step 24
+P15 time step 24
+P10 time step 24
+P11 time step 24
+P12 time step 24
+P13 time step 24
+P9 time step 24
+P0 time step 24
+P1 time step 24
+P7 time step 24
+P3 time step 24
+P4 time step 24
+P5 time step 24
+P14 time step 24
+P5 time step 25
+P8 time step 25
+P2 time step 25
+P6 time step 25
+P15 time step 25
+P10 time step 25
+P11 time step 25
+P12 time step 25
+P13 time step 25
+P9 time step 25
+P0 time step 25
+P1 time step 25
+P7 time step 25
+P3 time step 25
+P4 time step 25
+P14 time step 25
+P4 time step 26
+P5 time step 26
+P8 time step 26
+P2 time step 26
+P6 time step 26
+P15 time step 26
+P10 time step 26
+P11 time step 26
+P12 time step 26
+P13 time step 26
+P9 time step 26
+P0 time step 26
+P1 time step 26
+P7 time step 26
+P3 time step 26
+P14 time step 26
+P3 time step 27
+P4 time step 27
+P5 time step 27
+P8 time step 27
+P2 time step 27
+P6 time step 27
+P15 time step 27
+P10 time step 27
+P11 time step 27
+P12 time step 27
+P13 time step 27
+P9 time step 27
+P0 time step 27
+P1 time step 27
+P7 time step 27
+P14 time step 27
+P7 time step 28
+P3 time step 28
+P4 time step 28
+P5 time step 28
+P8 time step 28
+P2 time step 28
+P6 time step 28
+P15 time step 28
+P10 time step 28
+P11 time step 28
+P12 time step 28
+P13 time step 28
+P9 time step 28
+P0 time step 28
+P1 time step 28
+P14 time step 28
+P1 time step 29
+P7 time step 29
+P3 time step 29
+P4 time step 29
+P5 time step 29
+P8 time step 29
+P2 time step 29
+P6 time step 29
+P15 time step 29
+P10 time step 29
+P11 time step 29
+P12 time step 29
+P13 time step 29
+P9 time step 29
+P0 time step 29
+P14 time step 29
+P0 time step 30
+P1 time step 30
+P7 time step 30
+P3 time step 30
+P4 time step 30
+P5 time step 30
+P8 time step 30
+P2 time step 30
+P6 time step 30
+P15 time step 30
+P10 time step 30
+P11 time step 30
+P12 time step 30
+P13 time step 30
+P9 time step 30
+P14 time step 30
+P9 time step 31
+P0 time step 31
+P1 time step 31
+P7 time step 31
+P3 time step 31
+P4 time step 31
+P5 time step 31
+P8 time step 31
+P2 time step 31
+P6 time step 31
+P15 time step 31
+P10 time step 31
+P11 time step 31
+P12 time step 31
+P13 time step 31
+P14 time step 31
+P13 time step 32
+P9 time step 32
+P0 time step 32
+P1 time step 32
+P7 time step 32
+P3 time step 32
+P4 time step 32
+P5 time step 32
+P8 time step 32
+P2 time step 32
+P6 time step 32
+P15 time step 32
+P10 time step 32
+P11 time step 32
+P12 time step 32
+P14 time step 32
+P12 time step 33
+P13 time step 33
+P9 time step 33
+P0 time step 33
+P1 time step 33
+P7 time step 33
+P3 time step 33
+P4 time step 33
+P5 time step 33
+P8 time step 33
+P2 time step 33
+P6 time step 33
+P15 time step 33
+P10 time step 33
+P11 time step 33
+P14 time step 33
+P11 time step 34
+P12 time step 34
+P13 time step 34
+P9 time step 34
+P0 time step 34
+P1 time step 34
+P7 time step 34
+P3 time step 34
+P4 time step 34
+P5 time step 34
+P8 time step 34
+P2 time step 34
+P6 time step 34
+P15 time step 34
+P10 time step 34
+P14 time step 34
+P10 time step 35
+P11 time step 35
+P12 time step 35
+P13 time step 35
+P9 time step 35
+P0 time step 35
+P1 time step 35
+P7 time step 35
+P3 time step 35
+P4 time step 35
+P5 time step 35
+P8 time step 35
+P2 time step 35
+P6 time step 35
+P15 time step 35
+P14 time step 35
+P15 time step 36
+P10 time step 36
+P11 time step 36
+P12 time step 36
+P13 time step 36
+P9 time step 36
+P0 time step 36
+P1 time step 36
+P7 time step 36
+P3 time step 36
+P4 time step 36
+P5 time step 36
+P8 time step 36
+P2 time step 36
+P6 time step 36
+P14 time step 36
+P0 time step 37
+P15 time step 37
+P10 time step 37
+P11 time step 37
+P12 time step 37
+P13 time step 37
+P9 time step 37
+P14 time step 37
+P1 time step 37
+P7 time step 37
+P3 time step 37
+P4 time step 37
+P5 time step 37
+P8 time step 37
+P2 time step 37
+P6 time step 37
+P2 time step 38
+P0 time step 38
+P15 time step 38
+P10 time step 38
+P11 time step 38
+P12 time step 38
+P13 time step 38
+P9 time step 38
+P14 time step 38
+P1 time step 38
+P7 time step 38
+P3 time step 38
+P4 time step 38
+P5 time step 38
+P8 time step 38
+P6 time step 38
+P0 time step 39
+P8 time step 39
+P2 time step 39
+P6 time step 39
+P15 time step 39
+P10 time step 39
+P11 time step 39
+P12 time step 39
+P13 time step 39
+P9 time step 39
+P14 time step 39
+P1 time step 39
+P7 time step 39
+P3 time step 39
+P4 time step 39
+P5 time step 39
+P0 time step 40
+P8 time step 40
+P2 time step 40
+P6 time step 40
+P15 time step 40
+P10 time step 40
+P11 time step 40
+P12 time step 40
+P13 time step 40
+P9 time step 40
+P14 time step 40
+P1 time step 40
+P7 time step 40
+P3 time step 40
+P4 time step 40
+P5 time step 40
+P4 time step 41
+P0 time step 41
+P8 time step 41
+P2 time step 41
+P6 time step 41
+P15 time step 41
+P10 time step 41
+P11 time step 41
+P12 time step 41
+P13 time step 41
+P9 time step 41
+P14 time step 41
+P1 time step 41
+P7 time step 41
+P3 time step 41
+P5 time step 41
+P3 time step 42
+P4 time step 42
+P0 time step 42
+P8 time step 42
+P2 time step 42
+P6 time step 42
+P15 time step 42
+P10 time step 42
+P11 time step 42
+P12 time step 42
+P13 time step 42
+P9 time step 42
+P14 time step 42
+P1 time step 42
+P7 time step 42
+P5 time step 42
+P7 time step 43
+P3 time step 43
+P4 time step 43
+P0 time step 43
+P8 time step 43
+P2 time step 43
+P6 time step 43
+P15 time step 43
+P10 time step 43
+P11 time step 43
+P12 time step 43
+P13 time step 43
+P9 time step 43
+P14 time step 43
+P1 time step 43
+P5 time step 43
+P1 time step 44
+P7 time step 44
+P3 time step 44
+P4 time step 44
+P0 time step 44
+P8 time step 44
+P2 time step 44
+P6 time step 44
+P15 time step 44
+P10 time step 44
+P11 time step 44
+P12 time step 44
+P13 time step 44
+P9 time step 44
+P14 time step 44
+P5 time step 44
+P0 time step 45
+P15 time step 45
+P10 time step 45
+P11 time step 45
+P12 time step 45
+P13 time step 45
+P9 time step 45
+P5 time step 45
+P14 time step 45
+P1 time step 45
+P7 time step 45
+P3 time step 45
+P4 time step 45
+P8 time step 45
+P2 time step 45
+P6 time step 45
+P5 time step 46
+P14 time step 46
+P1 time step 46
+P7 time step 46
+P3 time step 46
+P9 time step 46
+P4 time step 46
+P8 time step 46
+P2 time step 46
+P0 time step 46
+P15 time step 46
+P10 time step 46
+P11 time step 46
+P12 time step 46
+P13 time step 46
+P6 time step 46
+P13 time step 47
+P5 time step 47
+P14 time step 47
+P1 time step 47
+P7 time step 47
+P3 time step 47
+P9 time step 47
+P4 time step 47
+P8 time step 47
+P2 time step 47
+P0 time step 47
+P15 time step 47
+P10 time step 47
+P11 time step 47
+P12 time step 47
+P6 time step 47
+P12 time step 48
+P13 time step 48
+P5 time step 48
+P14 time step 48
+P1 time step 48
+P7 time step 48
+P3 time step 48
+P9 time step 48
+P4 time step 48
+P8 time step 48
+P2 time step 48
+P0 time step 48
+P15 time step 48
+P10 time step 48
+P11 time step 48
+P6 time step 48
+P11 time step 49
+P12 time step 49
+P13 time step 49
+P5 time step 49
+P14 time step 49
+P1 time step 49
+P7 time step 49
+P3 time step 49
+P9 time step 49
+P4 time step 49
+P8 time step 49
+P2 time step 49
+P0 time step 49
+P15 time step 49
+P10 time step 49
+P6 time step 49
+P10 time step 50
+P11 time step 50
+P12 time step 50
+P13 time step 50
+P5 time step 50
+P14 time step 50
+P1 time step 50
+P7 time step 50
+P3 time step 50
+P9 time step 50
+P4 time step 50
+P8 time step 50
+P2 time step 50
+P0 time step 50
+P15 time step 50
+P6 time step 50
+P15 time step 51
+P10 time step 51
+P11 time step 51
+P12 time step 51
+P13 time step 51
+P5 time step 51
+P14 time step 51
+P1 time step 51
+P7 time step 51
+P3 time step 51
+P9 time step 51
+P4 time step 51
+P8 time step 51
+P2 time step 51
+P0 time step 51
+P6 time step 51
+P0 time step 52
+P15 time step 52
+P10 time step 52
+P11 time step 52
+P12 time step 52
+P13 time step 52
+P5 time step 52
+P14 time step 52
+P1 time step 52
+P7 time step 52
+P3 time step 52
+P9 time step 52
+P4 time step 52
+P8 time step 52
+P2 time step 52
+P6 time step 52
+P2 time step 53
+P0 time step 53
+P15 time step 53
+P10 time step 53
+P11 time step 53
+P12 time step 53
+P13 time step 53
+P5 time step 53
+P14 time step 53
+P1 time step 53
+P7 time step 53
+P3 time step 53
+P9 time step 53
+P4 time step 53
+P8 time step 53
+P6 time step 53
+P8 time step 54
+P2 time step 54
+P0 time step 54
+P15 time step 54
+P10 time step 54
+P11 time step 54
+P12 time step 54
+P13 time step 54
+P5 time step 54
+P14 time step 54
+P1 time step 54
+P7 time step 54
+P3 time step 54
+P9 time step 54
+P4 time step 54
+P6 time step 54
+P4 time step 55
+P8 time step 55
+P2 time step 55
+P0 time step 55
+P15 time step 55
+P10 time step 55
+P11 time step 55
+P12 time step 55
+P13 time step 55
+P5 time step 55
+P14 time step 55
+P1 time step 55
+P7 time step 55
+P3 time step 55
+P9 time step 55
+P6 time step 55
+P9 time step 56
+P4 time step 56
+P8 time step 56
+P2 time step 56
+P0 time step 56
+P15 time step 56
+P10 time step 56
+P11 time step 56
+P12 time step 56
+P13 time step 56
+P5 time step 56
+P14 time step 56
+P1 time step 56
+P7 time step 56
+P3 time step 56
+P6 time step 56
+P3 time step 57
+P9 time step 57
+P4 time step 57
+P8 time step 57
+P2 time step 57
+P0 time step 57
+P15 time step 57
+P10 time step 57
+P11 time step 57
+P12 time step 57
+P13 time step 57
+P5 time step 57
+P14 time step 57
+P1 time step 57
+P7 time step 57
+P6 time step 57
+P0 time step 58
+P1 time step 58
+P7 time step 58
+P3 time step 58
+P9 time step 58
+P4 time step 58
+P8 time step 58
+P2 time step 58
+P6 time step 58
+P15 time step 58
+P10 time step 58
+P11 time step 58
+P12 time step 58
+P13 time step 58
+P5 time step 58
+P14 time step 58
+P1 time step 59
+P7 time step 59
+P3 time step 59
+P9 time step 59
+P4 time step 59
+P8 time step 59
+P2 time step 59
+P6 time step 59
+P15 time step 59
+P10 time step 59
+P11 time step 59
+P12 time step 59
+P13 time step 59
+P5 time step 59
+P0 time step 59
+P14 time step 59
+P0 time step 60
+P1 time step 60
+P7 time step 60
+P3 time step 60
+P9 time step 60
+P4 time step 60
+P8 time step 60
+P2 time step 60
+P6 time step 60
+P15 time step 60
+P10 time step 60
+P11 time step 60
+P12 time step 60
+P13 time step 60
+P5 time step 60
+P14 time step 60
+P5 time step 61
+P0 time step 61
+P1 time step 61
+P7 time step 61
+P3 time step 61
+P9 time step 61
+P4 time step 61
+P8 time step 61
+P2 time step 61
+P6 time step 61
+P15 time step 61
+P10 time step 61
+P11 time step 61
+P12 time step 61
+P13 time step 61
+P14 time step 61
+P13 time step 62
+P5 time step 62
+P0 time step 62
+P1 time step 62
+P7 time step 62
+P3 time step 62
+P9 time step 62
+P4 time step 62
+P8 time step 62
+P2 time step 62
+P6 time step 62
+P15 time step 62
+P10 time step 62
+P11 time step 62
+P12 time step 62
+P14 time step 62
+P12 time step 63
+P13 time step 63
+P5 time step 63
+P0 time step 63
+P1 time step 63
+P7 time step 63
+P3 time step 63
+P9 time step 63
+P4 time step 63
+P8 time step 63
+P2 time step 63
+P6 time step 63
+P15 time step 63
+P10 time step 63
+P11 time step 63
+P14 time step 63
+P11 time step 64
+P12 time step 64
+P13 time step 64
+P5 time step 64
+P0 time step 64
+P1 time step 64
+P7 time step 64
+P3 time step 64
+P9 time step 64
+P4 time step 64
+P8 time step 64
+P2 time step 64
+P6 time step 64
+P15 time step 64
+P10 time step 64
+P14 time step 64
+P10 time step 65
+P11 time step 65
+P12 time step 65
+P13 time step 65
+P5 time step 65
+P0 time step 65
+P1 time step 65
+P7 time step 65
+P3 time step 65
+P9 time step 65
+P4 time step 65
+P8 time step 65
+P2 time step 65
+P6 time step 65
+P15 time step 65
+P14 time step 65
+P15 time step 66
+P10 time step 66
+P11 time step 66
+P12 time step 66
+P13 time step 66
+P5 time step 66
+P0 time step 66
+P1 time step 66
+P7 time step 66
+P3 time step 66
+P9 time step 66
+P4 time step 66
+P8 time step 66
+P2 time step 66
+P6 time step 66
+P14 time step 66
+P6 time step 67
+P15 time step 67
+P10 time step 67
+P11 time step 67
+P12 time step 67
+P13 time step 67
+P5 time step 67
+P0 time step 67
+P1 time step 67
+P7 time step 67
+P3 time step 67
+P9 time step 67
+P4 time step 67
+P8 time step 67
+P2 time step 67
+P14 time step 67
+P0 time step 68
+P1 time step 68
+P7 time step 68
+P3 time step 68
+P9 time step 68
+P4 time step 68
+P8 time step 68
+P2 time step 68
+P6 time step 68
+P15 time step 68
+P10 time step 68
+P11 time step 68
+P12 time step 68
+P13 time step 68
+P5 time step 68
+P14 time step 68
+P8 time step 69
+P2 time step 69
+P6 time step 69
+P15 time step 69
+P10 time step 69
+P11 time step 69
+P12 time step 69
+P13 time step 69
+P5 time step 69
+P0 time step 69
+P1 time step 69
+P7 time step 69
+P3 time step 69
+P9 time step 69
+P4 time step 69
+P14 time step 69
+P4 time step 70
+P8 time step 70
+P2 time step 70
+P6 time step 70
+P15 time step 70
+P10 time step 70
+P11 time step 70
+P12 time step 70
+P13 time step 70
+P5 time step 70
+P0 time step 70
+P1 time step 70
+P7 time step 70
+P3 time step 70
+P9 time step 70
+P14 time step 70
+P9 time step 71
+P4 time step 71
+P8 time step 71
+P2 time step 71
+P6 time step 71
+P15 time step 71
+P10 time step 71
+P11 time step 71
+P12 time step 71
+P13 time step 71
+P5 time step 71
+P0 time step 71
+P1 time step 71
+P7 time step 71
+P3 time step 71
+P14 time step 71
+P3 time step 72
+P9 time step 72
+P4 time step 72
+P8 time step 72
+P2 time step 72
+P6 time step 72
+P15 time step 72
+P10 time step 72
+P11 time step 72
+P12 time step 72
+P13 time step 72
+P5 time step 72
+P0 time step 72
+P1 time step 72
+P7 time step 72
+P14 time step 72
+P7 time step 73
+P3 time step 73
+P9 time step 73
+P4 time step 73
+P8 time step 73
+P2 time step 73
+P6 time step 73
+P15 time step 73
+P10 time step 73
+P11 time step 73
+P12 time step 73
+P13 time step 73
+P5 time step 73
+P0 time step 73
+P1 time step 73
+P14 time step 73
+P1 time step 74
+P7 time step 74
+P3 time step 74
+P9 time step 74
+P4 time step 74
+P8 time step 74
+P2 time step 74
+P6 time step 74
+P15 time step 74
+P10 time step 74
+P11 time step 74
+P12 time step 74
+P13 time step 74
+P5 time step 74
+P0 time step 74
+P14 time step 74
+P0 time step 75
+P1 time step 75
+P7 time step 75
+P3 time step 75
+P9 time step 75
+P4 time step 75
+P8 time step 75
+P2 time step 75
+P6 time step 75
+P15 time step 75
+P10 time step 75
+P11 time step 75
+P12 time step 75
+P13 time step 75
+P5 time step 75
+P14 time step 75
+P5 time step 76
+P0 time step 76
+P1 time step 76
+P7 time step 76
+P3 time step 76
+P9 time step 76
+P4 time step 76
+P8 time step 76
+P2 time step 76
+P6 time step 76
+P15 time step 76
+P10 time step 76
+P11 time step 76
+P12 time step 76
+P13 time step 76
+P14 time step 76
+P13 time step 77
+P5 time step 77
+P0 time step 77
+P1 time step 77
+P7 time step 77
+P3 time step 77
+P9 time step 77
+P4 time step 77
+P8 time step 77
+P2 time step 77
+P6 time step 77
+P15 time step 77
+P10 time step 77
+P11 time step 77
+P12 time step 77
+P14 time step 77
+P12 time step 78
+P13 time step 78
+P5 time step 78
+P0 time step 78
+P1 time step 78
+P7 time step 78
+P3 time step 78
+P9 time step 78
+P4 time step 78
+P8 time step 78
+P2 time step 78
+P6 time step 78
+P15 time step 78
+P10 time step 78
+P11 time step 78
+P14 time step 78
+P11 time step 79
+P12 time step 79
+P13 time step 79
+P5 time step 79
+P0 time step 79
+P1 time step 79
+P7 time step 79
+P3 time step 79
+P9 time step 79
+P4 time step 79
+P8 time step 79
+P2 time step 79
+P6 time step 79
+P15 time step 79
+P10 time step 79
+P14 time step 79
+P10 time step 80
+P11 time step 80
+P12 time step 80
+P13 time step 80
+P5 time step 80
+P0 time step 80
+P1 time step 80
+P7 time step 80
+P3 time step 80
+P9 time step 80
+P4 time step 80
+P8 time step 80
+P2 time step 80
+P6 time step 80
+P15 time step 80
+P14 time step 80
+P15 time step 81
+P10 time step 81
+P11 time step 81
+P12 time step 81
+P13 time step 81
+P5 time step 81
+P0 time step 81
+P1 time step 81
+P7 time step 81
+P3 time step 81
+P9 time step 81
+P4 time step 81
+P8 time step 81
+P2 time step 81
+P6 time step 81
+P14 time step 81
+P0 time step 82
+P3 time step 82
+P9 time step 82
+P4 time step 82
+P8 time step 82
+P2 time step 82
+P14 time step 82
+P6 time step 82
+P15 time step 82
+P10 time step 82
+P11 time step 82
+P12 time step 82
+P13 time step 82
+P5 time step 82
+P1 time step 82
+P7 time step 82
+P14 time step 83
+P6 time step 83
+P15 time step 83
+P10 time step 83
+P11 time step 83
+P12 time step 83
+P13 time step 83
+P2 time step 83
+P5 time step 83
+P1 time step 83
+P0 time step 83
+P3 time step 83
+P9 time step 83
+P4 time step 83
+P8 time step 83
+P7 time step 83
+P8 time step 84
+P14 time step 84
+P6 time step 84
+P15 time step 84
+P10 time step 84
+P11 time step 84
+P12 time step 84
+P13 time step 84
+P2 time step 84
+P5 time step 84
+P1 time step 84
+P0 time step 84
+P3 time step 84
+P9 time step 84
+P4 time step 84
+P7 time step 84
+P4 time step 85
+P8 time step 85
+P14 time step 85
+P6 time step 85
+P15 time step 85
+P10 time step 85
+P11 time step 85
+P12 time step 85
+P13 time step 85
+P2 time step 85
+P5 time step 85
+P1 time step 85
+P0 time step 85
+P3 time step 85
+P9 time step 85
+P7 time step 85
+P9 time step 86
+P4 time step 86
+P8 time step 86
+P14 time step 86
+P6 time step 86
+P15 time step 86
+P10 time step 86
+P11 time step 86
+P12 time step 86
+P13 time step 86
+P2 time step 86
+P5 time step 86
+P1 time step 86
+P0 time step 86
+P3 time step 86
+P7 time step 86
+P3 time step 87
+P9 time step 87
+P4 time step 87
+P8 time step 87
+P14 time step 87
+P6 time step 87
+P15 time step 87
+P10 time step 87
+P11 time step 87
+P12 time step 87
+P13 time step 87
+P2 time step 87
+P5 time step 87
+P1 time step 87
+P0 time step 87
+P7 time step 87
+P0 time step 88
+P3 time step 88
+P9 time step 88
+P4 time step 88
+P8 time step 88
+P14 time step 88
+P6 time step 88
+P15 time step 88
+P10 time step 88
+P11 time step 88
+P12 time step 88
+P13 time step 88
+P2 time step 88
+P5 time step 88
+P1 time step 88
+P7 time step 88
+P1 time step 89
+P0 time step 89
+P3 time step 89
+P9 time step 89
+P4 time step 89
+P8 time step 89
+P14 time step 89
+P6 time step 89
+P15 time step 89
+P10 time step 89
+P11 time step 89
+P12 time step 89
+P13 time step 89
+P2 time step 89
+P5 time step 89
+P7 time step 89
+P5 time step 90
+P1 time step 90
+P0 time step 90
+P3 time step 90
+P9 time step 90
+P4 time step 90
+P8 time step 90
+P14 time step 90
+P6 time step 90
+P15 time step 90
+P10 time step 90
+P11 time step 90
+P12 time step 90
+P13 time step 90
+P2 time step 90
+P7 time step 90
+P2 time step 91
+P5 time step 91
+P1 time step 91
+P0 time step 91
+P3 time step 91
+P9 time step 91
+P4 time step 91
+P8 time step 91
+P14 time step 91
+P6 time step 91
+P15 time step 91
+P10 time step 91
+P11 time step 91
+P12 time step 91
+P13 time step 91
+P7 time step 91
+P1 time step 92
+P0 time step 92
+P3 time step 92
+P9 time step 92
+P4 time step 92
+P8 time step 92
+P14 time step 92
+P6 time step 92
+P15 time step 92
+P10 time step 92
+P11 time step 92
+P12 time step 92
+P7 time step 92
+P13 time step 92
+P2 time step 92
+P5 time step 92
+P7 time step 93
+P13 time step 93
+P2 time step 93
+P12 time step 93
+P1 time step 93
+P0 time step 93
+P3 time step 93
+P9 time step 93
+P4 time step 93
+P8 time step 93
+P14 time step 93
+P6 time step 93
+P15 time step 93
+P10 time step 93
+P11 time step 93
+P5 time step 93
+P11 time step 94
+P7 time step 94
+P13 time step 94
+P2 time step 94
+P12 time step 94
+P1 time step 94
+P0 time step 94
+P3 time step 94
+P9 time step 94
+P4 time step 94
+P8 time step 94
+P14 time step 94
+P6 time step 94
+P15 time step 94
+P10 time step 94
+P5 time step 94
+P10 time step 95
+P11 time step 95
+P7 time step 95
+P13 time step 95
+P2 time step 95
+P12 time step 95
+P1 time step 95
+P0 time step 95
+P3 time step 95
+P9 time step 95
+P4 time step 95
+P8 time step 95
+P14 time step 95
+P6 time step 95
+P15 time step 95
+P5 time step 95
+P15 time step 96
+P10 time step 96
+P11 time step 96
+P7 time step 96
+P13 time step 96
+P2 time step 96
+P12 time step 96
+P1 time step 96
+P0 time step 96
+P3 time step 96
+P9 time step 96
+P4 time step 96
+P8 time step 96
+P14 time step 96
+P6 time step 96
+P5 time step 96
+P6 time step 97
+P15 time step 97
+P10 time step 97
+P11 time step 97
+P7 time step 97
+P13 time step 97
+P2 time step 97
+P12 time step 97
+P1 time step 97
+P0 time step 97
+P3 time step 97
+P9 time step 97
+P4 time step 97
+P8 time step 97
+P14 time step 97
+P5 time step 97
+P14 time step 98
+P6 time step 98
+P15 time step 98
+P10 time step 98
+P11 time step 98
+P7 time step 98
+P13 time step 98
+P2 time step 98
+P12 time step 98
+P1 time step 98
+P0 time step 98
+P3 time step 98
+P9 time step 98
+P4 time step 98
+P8 time step 98
+P5 time step 98
+P8 time step 99
+P14 time step 99
+P6 time step 99
+P15 time step 99
+P10 time step 99
+P11 time step 99
+P7 time step 99
+P13 time step 99
+P2 time step 99
+P12 time step 99
+P1 time step 99
+P0 time step 99
+P3 time step 99
+P9 time step 99
+P4 time step 99
+P5 time step 99
+P4 Timing: 0 is 8.78434e-10
+P4 Timing: 1 is 7.8816e-06
+P4 Timing: 2 is 1.33907e-07
+P8 Timing: 0 is 8.79104e-10
+P8 Timing: 1 is 7.89823e-06
+P8 Timing: 2 is 1.17578e-07
+P14 Timing: 0 is 8.81459e-10
+P14 Timing: 1 is 7.92404e-06
+P14 Timing: 2 is 9.12827e-08
+P6 Timing: 0 is 8.84392e-10
+P6 Timing: 1 is 7.81433e-06
+P6 Timing: 2 is 2.0123e-07
+P15 Timing: 0 is 8.82307e-10
+P15 Timing: 1 is 7.9384e-06
+P15 Timing: 2 is 7.66509e-08
+P10 Timing: 0 is 8.78528e-10
+P10 Timing: 1 is 7.91035e-06
+P10 Timing: 2 is 1.04769e-07
+P11 Timing: 0 is 8.79336e-10
+P11 Timing: 1 is 7.83604e-06
+P11 Timing: 2 is 1.79875e-07
+P7 Timing: 0 is 8.73183e-10
+P7 Timing: 1 is 7.76409e-06
+P7 Timing: 2 is 2.52052e-07
+P13 Timing: 0 is 8.77466e-10
+P13 Timing: 1 is 7.83655e-06
+P13 Timing: 2 is 1.79652e-07
+P2 Timing: 0 is 8.76268e-10
+P2 Timing: 1 is 7.8178e-06
+P2 Timing: 2 is 1.97483e-07
+P12 Timing: 0 is 8.75178e-10
+P12 Timing: 1 is 7.91497e-06
+P12 Timing: 2 is 1.01115e-07
+P1 Timing: 0 is 8.79958e-10
+P1 Timing: 1 is 7.88084e-06
+P1 Timing: 2 is 1.34185e-07
+P0 Timing: 0 is 8.77667e-10
+P0 Timing: 1 is 7.85837e-06
+P0 Timing: 2 is 1.44704e-07
+Gobal Times Timing: 0 is 1.40518e-08
+Gobal Times Timing: 1 is 0.000125814
+Gobal Times Timing: 2 is 2.42446e-06
+P3 Timing: 0 is 8.74004e-10
+P3 Timing: 1 is 7.83455e-06
+P3 Timing: 2 is 1.81897e-07
+P9 Timing: 0 is 8.80196e-10
+P9 Timing: 1 is 7.88444e-06
+P9 Timing: 2 is 1.31057e-07
+P5 Timing: 0 is 8.74291e-10
+P5 Timing: 1 is 7.81911e-06
+P5 Timing: 2 is 1.97023e-07
